@@ -1,0 +1,5 @@
+{
+  "name": "SmartGrid India",
+  "description": "IoT controller dashboard for home energy arbitrage, optimized for Indian grid data.",
+  "requestFramePermissions": []
+}
