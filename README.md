@@ -18,5 +18,6 @@ Internet dependency – network slow ho toh data update delay ho sakta hai.
 
 Energy calculation errors agar sensors properly calibrated na ho.
 
-Security issues – IoT devices ko hacking se protect karna zaroori hota hai.
 
+
+ link of project- https://smartgri.netlify.app/
